@@ -13,6 +13,7 @@ public class Vehicle {
 	public void move() {
 		x += vx;
 		y += vy;
+		
 	}
 
 	public void draw(MyFrame f) {
